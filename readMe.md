@@ -2,7 +2,7 @@
 <img align="right" width="100%"  src="./images/30_days_of_react.jpg" />
 </div>
 
-<div align="center">
+<div align="center" >
 
   <h1> 30 Days Of React</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
